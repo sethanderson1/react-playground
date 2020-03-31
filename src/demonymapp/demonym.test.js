@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Denonym from "./denonym";
+import Demonym from "./demonym";
 
 it("renders without crashing", () => {
   const div = document.createElement("div");
-  ReactDOM.render(<Denonym />, div);
-});  
+  ReactDOM.render(<Demonym />, div);
+});     

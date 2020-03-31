@@ -1,10 +1,10 @@
 import React from 'react';
-import './denonym.css';
+import './demonym.css';
 
-export default function Denonym(props) {
+export default function Demonym(props) {
 
     return (
-        <div className="denonym">
+        <div className="demonym">
             A {props.name} comes from {props.country}
         </div>
     );
