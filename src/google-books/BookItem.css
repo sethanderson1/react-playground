@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+.book-item {
+  display: flex;
+  align-items: center;
+  /* padding-bottom: 10px; */
+}
+
+.book-info {
+    /* flex: 1; */
+}
+
+.book-img {
+  /* align-self: flex-start; */
+  /* padding-right: 50px; */
+}
